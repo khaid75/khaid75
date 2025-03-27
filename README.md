@@ -5,7 +5,7 @@
 - 🌐 I build **web applications** with **Angular & REST APIs**
 - 📱 I create **Android apps** using **Java & Flutter**
 - 🌱 Currently learning **Firebase & Cloud Computing**
-- 📫 How to reach me: [Email](mailto:mdkhalidmr902@gmail.com)
+- 📫 How to reach me: Emailmailto: mdkhalidmr902@gmail.com
 - ⚡ Fun fact: I love solving coding challenges & exploring new technologies!
 
 
