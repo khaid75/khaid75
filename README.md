@@ -1,41 +1,44 @@
-![Web Devloper](https://media.licdn.com/dms/image/v2/D5616AQGFFbgFTupSkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738918346062?e=1748476800&v=beta&t=9hU_c3c93CGK-TqZZszfwEq1siNYoVBQ_BvcC-DNX-4)
+# **Hi there 👋, I'm Khalid**  
+### **Web Developer | Mobile App Developer**  
 
-### Hi there 👋, I'm Khalid
-#### Web Devloper
+I am a passionate **Junior Developer** with expertise in **Java, Spring Boot, Angular, Android, and Flutter**. I enjoy building modern and efficient **web** and **mobile applications** with a strong focus on **performance and user experience**.  
 
+### **💻 Technical Skills:**  
+✅ **Backend:** Java, Spring Boot, Spring MVC  
+✅ **Frontend:** Angular, HTML, CSS, SCSS  
+✅ **Mobile:** Android (Java), Flutter  
+✅ **Database:** MySQL, SQL, SQLite  
+✅ **Cloud & Tools:** Firebase, Git, GitHub  
 
-I am a passionate Junior Developer with expertise in Java, Spring Boot, Angular, Android, and Flutter. I enjoy building modern and efficient web and mobile applications with a strong focus on performance and user experience.
+Currently, I am learning **Firebase and Cloud Computing** to expand my knowledge in modern application development. I love **solving coding challenges** and always look for opportunities to **learn and grow** as a developer.  
 
-I have experience in backend development using Spring Boot and Spring MVC, as well as frontend development with Angular, HTML, CSS, and SCSS. Additionally, I work with Android (Java) and Flutter for mobile app development. My database skills include MySQL, SQL, and SQLite.
+📩 **Feel free to reach out at:** **[khalidmr902@gmail.com](mailto:khalidmr902@gmail.com)**  
 
-Currently, I am learning Firebase and Cloud Computing to expand my knowledge in modern application development. I love solving coding challenges and always look for opportunities to learn and grow as a developer.
+---
 
-Feel free to reach out at khalidmr902@gmail.com. 
+## 🚀 **What I'm Currently Up To:**  
+🔭 **Working on:** Trainee IT Scholarship Programme - IsDB-BISEW  
+🌱 **Learning:** Flutter & Firebase  
+👯 **Looking to Collaborate:** Open-source projects on GitHub  
+💬 **Ask Me About:** Web Development, Java, Spring Boot, Angular, Flutter  
+📫 **Reach Me At:** khalidmr902@gmail.com  
+⚡ **Fun Fact:** I love coding and gaming, and I'm always looking for new challenges to solve!  
 
-Skills: Java / Spring Boot / Angular / Android / Flutter / MySQL / SQL / SQLite / Firebase
+---
 
-- 🔭 I’m currently working on Trainee IT Scholarship Programme - IsDB-BISEW 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development, Java, Spring Boot, Angular, Flutter 
-- 📫 How to reach me: [khalidmr902@gmail.com](mailto:khalidmr902@gmail.com) 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I love coding and gaming, and I'm always looking for new challenges to solve! 
+## 📊 **GitHub Stats**  
+![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
 
+## 🎯 **Top Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khaid75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-khalid-535771208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/15UASfXaxj/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 🔗 **Connect With Me:**  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>](https://github.com/your-github-username)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/your-linkedin/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='30'>](https://www.facebook.com/your-facebook/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='30'>](https://khalid775.blogspot.com/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khaid75)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaid75)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khaid75&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/khaid75/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/khaid75)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=khaid75)  
+---
 
